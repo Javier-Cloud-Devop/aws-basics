@@ -13,7 +13,9 @@ Build a solid foundation in AWS cloud services through practical, hands-on pract
 
 ## Hands-on exercises
 - Cloud Computing Essentials (AWS SKill Builder)
-- Static website hosting using Amazon S3
+ - Static website hosting using Amazon S3
+ - EC2 deployment and instance configuration
+ - VPC networking concepts and security groups
 
 ## Status
 In progres...
