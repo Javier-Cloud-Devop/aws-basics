@@ -25,3 +25,25 @@ The objective was to understand how EC2 instances are launched, configured and d
   - This setup demostrates basic multi-AZ deployment concepts
   - No load balance was used in this lab
   - High availability was achieved conceptually by distributing instances across Azs
+ 
+  ## Additional exploration
+  During this lab, I also explored sevreal EC2 operational concepts:
+
+    - Reviewed different instance families, sizes, pricing, and storage characteritics
+    - Observed that SSH access was not available due to the absence of a key pair
+    - Connected to the instance using EC2 Instance Connect
+    - Accessed the instance terminal directly from the AWS Console
+    - Navigated the filesystem using basic Linux commands (ls, cd)
+    - Inspected system logs using tail
+ 
+  ## User date review
+  I reviewed the user data script used during the instance launch, which included:
+  
+  - A bash shebang (#!/bin/bash)
+  - Creation of directories using mkdir
+  - copying files from an S3 bucket to the EC2 instance using aws S3 cp
+  - Installing PYthon libraries using pip
+  - Starting a web service at the end of the script
+ 
+  This demostrated how EC2 instances con be bootstrapped automatically at launch time using user data scripts
+  
