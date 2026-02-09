@@ -16,6 +16,7 @@ Build a solid foundation in AWS cloud services through practical, hands-on pract
  - Static website hosting using Amazon S3
  - EC2 deployment and instance configuration
  - VPC networking concepts and security groups
+ - Cloud economics and EC2 cost estimation
 
 ## Status
 In progres...
