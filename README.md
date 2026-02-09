@@ -17,6 +17,7 @@ Build a solid foundation in AWS cloud services through practical, hands-on pract
  - EC2 deployment and instance configuration
  - VPC networking concepts and security groups
  - Cloud economics and EC2 cost estimation
+ - VPC peering and inter-VPC communication
 
 ## Status
 In progres...
