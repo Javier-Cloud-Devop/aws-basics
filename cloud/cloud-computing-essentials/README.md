@@ -7,6 +7,7 @@ Hands-on labs completed as part of the AWS Skill Builder Cloud Computing Essenti
 - EC2 deployment across multiple Availability Zones
 - VPC networking concepts and security groups
 - Cloud economics and EC2 cost estimation
+- VPC peering and inter-VPC communication
 
 ## Tools used
 - AWS Management Console (GUI)
