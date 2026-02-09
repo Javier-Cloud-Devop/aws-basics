@@ -9,6 +9,7 @@ Hands-on labs completed as part of the AWS Skill Builder Cloud Computing Essenti
 - Cloud economics and EC2 cost estimation
 - VPC peering and inter-VPC communication
 - Amazon RDS bacis with Multi-AZ and read replicas
+- Fisr NOSQL database using Amazon DynamoDB
 
 ## Tools used
 - AWS Management Console (GUI)
