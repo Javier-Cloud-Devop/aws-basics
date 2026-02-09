@@ -24,7 +24,8 @@ Build a solid foundation in AWS cloud services through practical, hands-on pract
  - VPC networking concepts and security groups
  - Cloud economics and EC2 cost estimation
  - VPC peering and inter-VPC communication
- - Add Amazon RDS databases practice lab
+ - Amazon RDS basics with Multi-AZ and read replicas
+ - First NoSQL database using Amazon DynamoDB
 
 ---
 
