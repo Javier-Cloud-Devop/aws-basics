@@ -12,6 +12,13 @@ Hands-on labs completed as part of the AWS Skill Builder Cloud Computing Essenti
 - Fisr NOSQL database using Amazon DynamoDB
 - Auto-healing and scaling applications using EC2 AUto Scaling (shceduled scaling)
 - Highly available web applications using ALB and Auto Scaling (multi-AZ)
+- Core security concepts using IAM groups and least-privilege policies
 
 ## Tools used
 - AWS Management Console (GUI)
+
+---
+
+## Status
+
+Cloud Quest (Cloud Computing Essentials) completed. Practical labs documented in this directory.
