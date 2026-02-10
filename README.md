@@ -1,6 +1,6 @@
 # aws-basics
-Hands-on AWS fundamentals: EC2, S3, IAM and basic networking. 
-This repository documents practical exercises and notes while learning AWS.
+Hands-on AWS fundamentals covering compute, storage, networking, scaling, availability, databases, and security.
+This repository documents practical AWS labs completed as part of structured learning using AWS Skill Builder and Cloud Quest.
 
 ---
 
@@ -8,17 +8,15 @@ This repository documents practical exercises and notes while learning AWS.
 - Amazon EC2
 - Amazon S3
 - AWS IAM
-- Basic networking concepts
+- VPC networking and security groups
+- Cloud economics and cost estimation
+- Auto Scaling and high availability
+- Relational and NoSQL databases
 
 ---
 
-## Purpose
-Build a solid foundation in AWS cloud services through practical, hands-on practice.
-
----
-
-## Hands-on exercises
-- Cloud Computing Essentials (AWS SKill Builder)
+## Hands-on labs completed
+- Cloud Computing Essentials (AWS Skill Builder)
  - Static website hosting using Amazon S3
  - EC2 deployment and instance configuration
  - VPC networking concepts and security groups
@@ -26,12 +24,18 @@ Build a solid foundation in AWS cloud services through practical, hands-on pract
  - VPC peering and inter-VPC communication
  - Amazon RDS basics with Multi-AZ and read replicas
  - First NoSQL database using Amazon DynamoDB
- - Auto-healing and scaling applications using EC2 AUto Scaling (shceduled scaling)
+ - Auto-healing and scaling applications using EC2 Auto Scaling (scheduled scaling)
  - Highly available web applications using ALB and Auto Scaling (multi-AZ)
+ - Core security conceps using IAM groups least-privilege policies
+
+---
+
+## Purpose
+Build a solid foundation in AWS cloud operations through hands-on practice and documented labs, with a focus on core infrastructure, availability, scaling, and security concepts. 
 
 ---
 
 ## Status
-In progres...
+- Cloud Quest (Cloud Computing Essentials) completed
 
 ---
