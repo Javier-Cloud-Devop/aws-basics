@@ -27,6 +27,7 @@ Build a solid foundation in AWS cloud services through practical, hands-on pract
  - Amazon RDS basics with Multi-AZ and read replicas
  - First NoSQL database using Amazon DynamoDB
  - Auto-healing and scaling applications using EC2 AUto Scaling (shceduled scaling)
+ - Highly available web applications using ALB and Auto Scaling (multi-AZ)
 
 ---
 
