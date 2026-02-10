@@ -26,6 +26,7 @@ Build a solid foundation in AWS cloud services through practical, hands-on pract
  - VPC peering and inter-VPC communication
  - Amazon RDS basics with Multi-AZ and read replicas
  - First NoSQL database using Amazon DynamoDB
+ - Auto-healing and scaling applications using EC2 AUto Scaling (shceduled scaling)
 
 ---
 
