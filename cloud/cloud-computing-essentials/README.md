@@ -10,6 +10,7 @@ Hands-on labs completed as part of the AWS Skill Builder Cloud Computing Essenti
 - VPC peering and inter-VPC communication
 - Amazon RDS bacis with Multi-AZ and read replicas
 - Fisr NOSQL database using Amazon DynamoDB
+- Auto-healing and scaling applications using EC2 AUto Scaling (shceduled scaling)
 
 ## Tools used
 - AWS Management Console (GUI)
